@@ -24,7 +24,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [중고책 온라인 서점](https://github.com/JunYoung-C/javaproject)
+### 1. [온라인 중고책 서점](https://github.com/JunYoung-C/javaproject)
 >중고책을 오프라인 서점과 같이 온라인으로 회원들이 간편하게 책을 구매하고, 판매하는 서비스 개발 (팀 프로젝트)  
 >개발 기간: 2022.3.7 ~ 2022.3.8
 >  
